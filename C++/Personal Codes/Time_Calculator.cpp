@@ -24,5 +24,5 @@ int main(){
         a+=j;
         b=b%60;
     }
-    cout<<"Total time in HH:MM:SS :- "<<a<<":"<<b<<":"<<c<<endl;
+    cout<<"Time in HH:MM:SS :- "<<a<<":"<<b<<":"<<c<<endl;
 }
